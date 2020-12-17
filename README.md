@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/UMAGODi/LockDetector/main/pic/banner.png)
+![banner](https://raw.githubusercontent.com/UMAGODi/LockDetector/main/pic/banner.gif)
 
 # 概要
 
